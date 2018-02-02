@@ -50,14 +50,16 @@ h1 {
   font-size: 12em;
   margin: 0.67em 0;
   color: grey;
-  line-height: 1;
+  line-height: 0.9;
+  letter-spacing: -3px;
 }
 
 h2 {
   font-size: 7em;
   margin: 0.67em 0;
   color: grey;
-  line-height: 1;
+  line-height: 0.9;
+  letter-spacing: -3px;
 }
 
 /* Grouping content

@@ -53,6 +53,13 @@ h1 {
   line-height: 1;
 }
 
+red {
+  font-size: 12em;
+  margin: 0.67em 0;
+  color: red;
+  line-height: 1;
+}
+
 h2 {
   font-size: 7em;
   margin: 0.67em 0;

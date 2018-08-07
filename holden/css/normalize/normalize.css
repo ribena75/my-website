@@ -51,7 +51,7 @@ h1 {
   margin: 0.67em 0;
   color: grey;
   line-height: 0.9;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
 
 h2 {
@@ -59,7 +59,7 @@ h2 {
   margin: 0.67em 0;
   color: black;
   line-height: 0.9;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
 
 h3 {
@@ -67,7 +67,7 @@ h3 {
   margin: 0.67em 0;
   color: grey;
   line-height: 0.9;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
 
 /* Grouping content

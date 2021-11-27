@@ -208,6 +208,10 @@ input[type="button"].button-primary {
   color: #FFF;
   background-color: #f06033;
   border-color: #f06033; }
+input[type="button"].button-linkedin {
+  color: #FFF;
+  background-color: #0077b5;
+  border-color: #0077b5; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,

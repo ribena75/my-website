@@ -17,3 +17,16 @@ Certified Salesforce Administrator, SharePoint, FinDock, CauseView, MSOffice, Of
 
 ## Relevant experience
 
+## Education
+
+* BA (Hons) Media Arts / 2.2 1995 - 1998,  University of Hertfordshire
+* Art & Design GNVQ Level 3 / Pass 1992 - 1995,  Amersham & Wycombe College
+* GCSE English, Maths, French, Science / C 1987 - 1992, Holmer Green Upper School
+
+## Certification
+
+* Salesforce Certified Administrator (SCA) `Issued Nov 2021`
+* SharePoint Online Admin Essential Training `Issued Jul 2020`
+* SharePoint Online: Working in the Modern Experience Issued Jul 2020
+* SharePoint for Enterprise: Data Management `Issued Jul 2020`
+* Salesforce Administration Essentials for New Admins - ADM-201 `Issued Mar 2013`

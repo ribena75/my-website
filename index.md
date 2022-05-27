@@ -3,7 +3,7 @@
 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
 
-### Profile
+## Profile
 
 👋 Experienced Digital/CRM professional  
 ☁️ Certified Salesforce Administrator  
@@ -11,7 +11,7 @@
 🔍 Strong attention to detail  
 🌱 Commitment to learning and development
 
-### Skills
+## Skills
 
 Certified Salesforce Administrator, SharePoint, FinDock, CauseView, MSOffice, Office 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress and other content management systems, HTML, Adobe Creative Suite, Print Production Management
 

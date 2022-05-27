@@ -1,5 +1,3 @@
-## Richard Andrew
-
 - 📫 3 Hubbard Road, London SE27 9PJ
 - 📞 07939 331665
 - 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)
@@ -11,7 +9,7 @@
 - ☁️ Certified Salesforce Administrator
 - ✏️ Confident verbal and written communication skills
 - 🔍 Strong attention to detail
-- 🌱 Committed to learning
+- 🌱 Commitment to learning and development
 
 ### Skills
 

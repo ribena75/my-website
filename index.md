@@ -1,11 +1,11 @@
-# Richard Andrew
+## Richard Andrew
 
 - 📫 3 Hubbard Road, London SE27 9PJ
 - 📞 07939 331665
 - 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
 
-## Profile
+### Profile
 
 - 👋 Experienced Digital/CRM professional
 - ☁️ Certified Salesforce Administrator
@@ -13,7 +13,7 @@
 - 🔍 Strong attention to detail
 - 🌱 Committed to learning
 
-## Skills
+### Skills
 
 Certified Salesforce Administrator, SharePoint, FinDock, CauseView, MSOffice, Office 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress and other content management systems, HTML, Adobe Creative Suite, Print Production Management
 

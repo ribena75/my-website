@@ -10,7 +10,7 @@
 - ☁️ Certified Salesforce Administrator
 - ✏️ Confident verbal and written communication skills
 - 🔍 Strong attention to detail
-- 🌱 Willingness to develop further
+- 🌱 Committed to learning
 
 ## Skills
 

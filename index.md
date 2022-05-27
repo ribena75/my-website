@@ -52,9 +52,9 @@ Work included coordinating the design and build of a new charity website and the
 
 ## Education
 
-* BA (Hons) Media Arts / 2.2 1995 - 1998,  University of Hertfordshire
-* Art & Design GNVQ Level 3 / Pass 1992 - 1995,  Amersham & Wycombe College
-* GCSE English, Maths, French, Science / C 1987 - 1992, Holmer Green Upper School
+* BA (Hons) Media Arts / 2.2 `1995 - 1998,  University of Hertfordshire`
+* Art & Design GNVQ Level 3 / Pass `1992 - 1995,  Amersham & Wycombe College`
+* GCSE English, Maths, French, Science / C `1987 - 1992, Holmer Green Upper School`
 
 ## Certification
 

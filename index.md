@@ -17,15 +17,13 @@ Certified Salesforce Administrator, SharePoint, FinDock, CauseView, MSOffice, Of
 
 ## Relevant experience
 
-### Peace Direct / Database Officer
-
-`Nov 2019 - present`
+### Peace Direct / Database Officer  
+*Nov 2019 - present*
 
 Awaiting text…
 
-### Kidscape / Website, Print and Database Manager
-
-`Aug 2012 - Oct 2019`
+### Kidscape / Website, Print and Database Manager  
+*Aug 2012 - Oct 2019*
 
 My main responsibility in this role was the administration and development of the charity’s Salesforce instance, including:
 
@@ -38,28 +36,26 @@ My main responsibility in this role was the administration and development of th
 
 Other responsibilities included website development and content management, domain management, in-house design and print production, data protection and organisational lead on GDPR, IT support and training of staff. 
 
-### NHS Lambeth / Website Manager
-
-`Oct 2008 - Oct 2010`
+### NHS Lambeth / Website Manager  
+*Oct 2008 - Oct 2010*
 
 My main role was managing the Lambeth PCT website to provide accessible content to a diverse audience, and staff intranet management (used by over 3,000 NHS staff across the borough), including helping staff to develop their intranet management skills by providing technical and creative support. I also produced print materials including the local NHS health guide which was distributed to every household in Lambeth. 
 
-### Minority Rights Group International / Production Coordinator
-
-`Sep 2002 - Oct 2008`
+### Minority Rights Group International / Production Coordinator  
+*Sep 2002 - Oct 2008*
 
 Work included coordinating the design and build of a new charity website and the build of a unique online database of the world’s minority groups, including recruiting and managing interns; managing the design and print production of flagship human rights publications, often with overseas partner organisations and other project stakeholders; photo research; commissioning designers, photographers and cartographers; liaising with printers, picture libraries and distributors.
 
 ## Education
 
-* BA (Hons) Media Arts / 2.2 `1995 - 1998,  University of Hertfordshire`
-* Art & Design GNVQ Level 3 / Pass `1992 - 1995,  Amersham & Wycombe College`
-* GCSE English, Maths, French, Science / C `1987 - 1992, Holmer Green Upper School`
+* *BA (Hons) Media Arts* / 2.2 (1995 - 1998,  University of Hertfordshire)
+* *Art & Design GNVQ Level 3* / Pass (1992 - 1995,  Amersham & Wycombe College)
+* *GCSE English, Maths, French, Science)* / C (1987 - 1992, Holmer Green Upper School)
 
 ## Certification
 
-* Salesforce Certified Administrator (SCA) `Issued Nov 2021`
-* SharePoint Online Admin Essential Training `Issued Jul 2020`
-* SharePoint Online: Working in the Modern Experience Issued Jul 2020
-* SharePoint for Enterprise: Data Management `Issued Jul 2020`
-* Salesforce Administration Essentials for New Admins - ADM-201 `Issued Mar 2013`
+* Salesforce Certified Administrator (SCA) (Issued Nov 2021)
+* SharePoint Online Admin Essential Training (Issued Jul 2020)
+* SharePoint Online: Working in the Modern Experience (Issued Jul 2020)
+* SharePoint for Enterprise: Data Management (Issued Jul 2020)
+* Salesforce Administration Essentials for New Admins - ADM-201 (Issued Mar 2013)

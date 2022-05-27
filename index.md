@@ -1,6 +1,8 @@
 # Richard Andrew
 
-3 Hubbard Road, London SE27 9PJ 📞 07939 331665 📫 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)
+- 📫 3 Hubbard Road, London SE27 9PJ
+- 📞 07939 331665
+- 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)
 
 ## Profile
 

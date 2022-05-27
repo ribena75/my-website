@@ -5,9 +5,9 @@
 
 ## Profile
 
-👋 Experienced Digital/CRM professional  
+⚡ Experienced Digital/CRM professional  
 ☁️ Certified Salesforce Administrator  
-✏️ Confident verbal and written communication skills  
+👋 Confident verbal and written communication skills  
 🔍 Strong attention to detail  
 🌱 Commitment to learning and development
 

@@ -5,7 +5,12 @@
 - 📫 How to reach me ...
 
 👋 Experienced Digital/CRM professional
+
 ☁️ Certified Salesforce Administrator
+
 ✏️ Confident verbal and written communication skills
+
 🔍 Strong attention to detail
+
 🌱 Willingness to develop further
+

@@ -17,6 +17,39 @@ Certified Salesforce Administrator, SharePoint, FinDock, CauseView, MSOffice, Of
 
 ## Relevant experience
 
+### Peace Direct / Database Officer
+
+`Nov 2019 - present`
+
+Awaiting text…
+
+### Kidscape / Website, Print and Database Manager
+
+`Aug 2012 - Oct 2019`
+
+My main responsibility in this role was the administration and development of the charity’s Salesforce instance, including:
+
+* Building and maintaining workflow processes relating to user adoption including Web-to-Lead and Web-to-Case, fundraising campaigns, training workshops, supporter donations and privacy controls
+* Creating and maintaining reports and dashboards
+* Managing data integrations and lead generation
+* Testing and implementing new development requests
+* User and account maintenance
+* Assisting and training users
+
+Other responsibilities included website development and content management, domain management, in-house design and print production, data protection and organisational lead on GDPR, IT support and training of staff. 
+
+### NHS Lambeth / Website Manager
+
+`Oct 2008 - Oct 2010`
+
+My main role was managing the Lambeth PCT website to provide accessible content to a diverse audience, and staff intranet management (used by over 3,000 NHS staff across the borough), including helping staff to develop their intranet management skills by providing technical and creative support. I also produced print materials including the local NHS health guide which was distributed to every household in Lambeth. 
+
+### Minority Rights Group International / Production Coordinator
+
+`Sep 2002 - Oct 2008`
+
+Work included coordinating the design and build of a new charity website and the build of a unique online database of the world’s minority groups, including recruiting and managing interns; managing the design and print production of flagship human rights publications, often with overseas partner organisations and other project stakeholders; photo research; commissioning designers, photographers and cartographers; liaising with printers, picture libraries and distributors.
+
 ## Education
 
 * BA (Hons) Media Arts / 2.2 1995 - 1998,  University of Hertfordshire

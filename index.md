@@ -27,13 +27,13 @@ Key responsibilities include:
 
 * Capturing, processing and recording transactional and donor data from all channels
 * Working with accounts team to ensure timely reconciliation of fundraising data on a monthly basis
-* Design and generate custom or scheduled fundraising reports to provide insight into transactional, donor and supporter data
+* Build fundraising reports to provide insight into transactional, donor and supporter data
 * Generating segments for fundraising and marketing activity
 * Managing database connectivity to third party systems
-* Developing processes and integrations to improve efficiency and working with third party suppliers to achieve this
-* Project management of new implementation, activation of new functionality and upgrades of Salesforce across the organisation
+* Developing processes and integrations to improve efficiency and working with third party suppliers
+* Project management of new implementation, activation of new functionality and upgrades of Salesforce
 * Training staff in the use of the CRM
-* Maintaining and updating Gift Aid records, and maximising Gift Aid opt-in
+* Maintaining and updating Gift Aid records and maximising Gift Aid opt-in
 * Lead on data protection and information security
 
 ### Kidscape / Website, Print and Database Manager

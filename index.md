@@ -1,4 +1,4 @@
-<img src="/img/sf-administrator.png" alt="Certified Salesforce Administrator" width="200"/>
+<img src="img/sf-administrator.png" alt="Certified Salesforce Administrator" width="200"/>
 
 📫 3 Hubbard Road, London SE27 9PJ  
 📞 07939 331665  

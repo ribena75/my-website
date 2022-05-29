@@ -13,7 +13,7 @@
 
 ## Skills
 
-Certified Salesforce Administrator, SharePoint Administration, FinDock, CauseView, Mailchimp, MSOffice, Microsoft 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress, HTML, GitHub, Adobe Creative Suite, Print Production Management
+Certified Salesforce Administrator, SharePoint Administration, FinDock, CauseView, Mailchimp, MSOffice inc Excel, Microsoft 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress, HTML, GitHub, Adobe Creative Suite, Print Production Management
 
 ## Relevant experience
 

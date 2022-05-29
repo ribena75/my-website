@@ -1,4 +1,4 @@
-📫 3 Hubbard Road, London SE27 9PJ  
+📫 Richard Andrew, 3 Hubbard Road, London SE27 9PJ  
 📞 07939 331665  
 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
@@ -7,8 +7,7 @@
 
 ⚡ Experienced Digital/CRM professional  
 ☁️ Certified Salesforce Administrator  
-👋 Confident verbal and written communication skills  
-🔍 Strong attention to detail  
+👋 Strong verbal and written communication skills    
 🌱 Commitment to learning and development
 
 ## Skills
@@ -21,7 +20,7 @@ Certified Salesforce Administrator, SharePoint Administration, FinDock, CauseVie
 
 **Nov 2019 - present**
 
-I work to ensure that all transactional and donor data is effectively captured, processed, analysed and reported in Salesforce NPSP, while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
+I ensure all transactional and donor data is effectively captured, processed, analysed and reported in Salesforce NPSP, while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
 
 Key responsibilities include:
 

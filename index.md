@@ -1,5 +1,3 @@
-<img src="img/sf-administrator.png" alt="Certified Salesforce Administrator" width="100"/>
-
 📫 3 Hubbard Road, London SE27 9PJ  
 📞 07939 331665  
 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)  

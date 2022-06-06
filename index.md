@@ -32,7 +32,7 @@ Key responsibilities include:
 * Developing processes and integrations to improve efficiency and working with third party suppliers to achieve this
 * Project management of new implementation, activation of new functionality and upgrades of Salesforce across the organisation
 * Training staff in the use of the CRM
-* Maintaining and updating Gift Aid records, and maximising Gift Aid opt-in
+* Maintaining and updating Gift Aid records and maximising Gift Aid opt-in
 * Lead on data protection and information security
 
 ### Kidscape / Website, Print and Database Manager
@@ -70,7 +70,7 @@ Work included coordinating the design and build of a new charity website and the
 
 ## Certification
 
-* Salesforce Certified Administrator (SCA) (Issued Nov 2021)
+* Salesforce Certified Administrator (Issued Nov 2021)
 * SharePoint Online Admin Essential Training (Issued Jul 2020)
 * SharePoint Online: Working in the Modern Experience (Issued Jul 2020)
 * SharePoint for Enterprise: Data Management (Issued Jul 2020)

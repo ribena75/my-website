@@ -3,7 +3,7 @@
 # CV heading test
 
 📫 3 Hubbard Road, London SE27 9PJ  
-📞 07939 331665  
+🤙 07939 331665  
 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
 

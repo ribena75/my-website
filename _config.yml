@@ -1,7 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 plugins:
   - jekyll-relative-links
-  
 relative_links:
   enabled: true
   collections: true
@@ -14,3 +13,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+title: Richard Andrew
+description: on the internet

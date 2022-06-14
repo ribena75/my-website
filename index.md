@@ -1,4 +1,4 @@
-![youdad](/img/youdad.png)
+!["You Dad"](/img/youdad.png)
 
 👋 [Contact](mailto:richiebandrew@gmail.com)  
 🔗 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank">LinkedIn</a>  

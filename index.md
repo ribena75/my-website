@@ -2,4 +2,4 @@
 🔗 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank">LinkedIn</a>  
 🚲 <a href="https://audax.uk/" target="_blank">AUK</a>
 
-!["You Dad"](/assets/img/youdad.png)
+!["You Dad"](/assets/img/youdad.png) ![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)

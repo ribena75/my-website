@@ -1,8 +1,8 @@
-# Audax
+## Audax
 
 A space to document my long(ish) distance cycle travails.
 
-## 2021-22
+### 2021-22
 
 | Date | Event | Distance |
 ---
@@ -14,7 +14,7 @@ A space to document my long(ish) distance cycle travails.
 | 04/12/2021 | The South of Bucks Winter Warmer | 200km |	
 | 14/11/2021 | The Ditchling Devil | 200km |
 
-## 2020-21
+### 2020-21
 
 | Date | Event | Distance |
 ---
@@ -27,7 +27,7 @@ A space to document my long(ish) distance cycle travails.
 | 09/05/2021 | Hop Garden | 200km |
 | 05/12/2020 | The South of Bucks Winter Warmer | 200km |
 
-## 2019-20
+### 2019-20
 
 | Date | Event | Distance |
 ---

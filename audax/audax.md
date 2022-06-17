@@ -25,4 +25,4 @@ A space to document my long(ish) distance cycle travails.
 
 ## 2019-20
 
-- 17/10/2020 - [Quainton Express](/audax/quainton-express-2020)
+- 17/10/2020 - [Quainton Express](/2019-20/quainton-express-2020)

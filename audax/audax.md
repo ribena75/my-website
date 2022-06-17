@@ -31,4 +31,4 @@ A space to document my long(ish) distance cycle travails.
 
 | Date | Event | Distance |
 ---
-| 17/10/2020 | [Quainton Express](/2019-20/quainton-express-2020) | 100km |
+| 17/10/2020 | [Quainton Express](/richard.andrew/audax/2019-20/quainton-express-2020) | 100km |

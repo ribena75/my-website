@@ -1,3 +1,5 @@
+<< [Audax](/richard.andrew/audax/audax.html)
+
 ## Quainton Express 100km
 
 My first audax. Cycled from hometo the start, then out to Vale of Aylesbury and back via Waddesdon Manor, fantastic route. Stopped at Dad's on the way back.

@@ -1,11 +1,11 @@
 ## Audax
 
-A space to document my long(ish) distance cycle travails.
+A space to document my long(ish) distance cycling travails.
 
 ### 2021-22
 
 | Date | Event | Distance |
----
+| --- | --- | --- |
 | 07/05/2022 | Fast Times in the High Weald | 200km |
 | 09/04/2022 | Shaftesbury CC - Essex Lanes & Coasts | 200km |
 | 26/03/2022 | Steam Ride: London-Oxford-London (LOL) | 200km |
@@ -17,7 +17,7 @@ A space to document my long(ish) distance cycle travails.
 ### 2020-21
 
 | Date | Event | Distance |
----
+| --- | --- | --- |
 | 03/10/2021 | Brace of Bramleys | 200km |
 | 18/09/2021 | SeaShore | 200km |
 | 30/08/2021 | Man of Kent | 200km |
@@ -30,5 +30,5 @@ A space to document my long(ish) distance cycle travails.
 ### 2019-20
 
 | Date | Event | Distance |
----
+| --- | --- | --- |
 | 17/10/2020 | [Quainton Express](/richard.andrew/audax/2019-20/quainton-express-2020) | 100km |

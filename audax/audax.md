@@ -6,6 +6,7 @@ A space to document my long(ish) distance cycling travails.
 
 | Date | Event | Distance |
 | --- | --- | --- |
+| 19/06/2022 | [(Syden)Ham Rye Sandwich DIY](/richard.andrew/audax/2020-21/june-300-diy) | 300km |
 | 07/05/2022 | Fast Times in the High Weald | 200km |
 | 09/04/2022 | Shaftesbury CC - Essex Lanes & Coasts | 200km |
 | 26/03/2022 | Steam Ride: London-Oxford-London (LOL) | 200km |

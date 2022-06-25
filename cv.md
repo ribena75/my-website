@@ -7,14 +7,16 @@
 
 ## Profile
 
-⚡ Experienced Digital/CRM professional  
 ☁️ Certified Salesforce Administrator  
+⚡ Experienced Digital/CRM professional  
 👋 Strong communication skills    
 🌱 Commitment to learning and development
 
 ## Skills
 
-Certified Salesforce Administrator, SharePoint Administration, Mailchimp, MSOffice inc Excel, Microsoft 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress, HTML, GitHub, Adobe Creative Suite, Print Production Management
+Salesforce Administration, including: workflow/process builder, object and field management, page layout management, email integration, validation rules and data quality, user/profile management, dataloader/data import, sandbox and changeset deployment.
+
+Other skills include Microsoft 365/SharePoint Administration, Mailchimp, MSOffice inc Excel, Microsoft 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress, HTML, GitHub, Adobe Creative Suite, Print Production Management
 
 ## Relevant experience
 
@@ -22,7 +24,7 @@ Certified Salesforce Administrator, SharePoint Administration, Mailchimp, MSOffi
 
 **Nov 2019 - present**
 
-I ensure all transactional and donor data is effectively captured, processed, analysed and reported in Salesforce NPSP, while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
+I ensure all transactional and donor data is effectively captured, processed, analysed and reported in Salesforce (NPSP), while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
 
 Key responsibilities include:
 

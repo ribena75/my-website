@@ -14,9 +14,8 @@
 
 ## Skills
 
-Salesforce Administration, including: workflow/process builder, object and field management, page layout management, email integration, validation rules and data quality, user/profile management, dataloader/data import, sandbox and changeset deployment.
-
-Other skills include Microsoft 365/SharePoint Administration, Mailchimp, MSOffice inc Excel, Microsoft 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress, HTML, GitHub, Adobe Creative Suite, Print Production Management
+* Salesforce Administration: workflow/process builder, object and field management, page layout management, email integration, validation rules and data quality, user/profile management, dataloader/data import, sandbox and changeset deployment.
+* Other: Microsoft 365/SharePoint Administration, Mailchimp, MSOffice inc Excel, Microsoft 365 Admin, G Suite Admin, Umbraco, Drupal, WordPress, HTML, GitHub, Adobe Creative Suite, Print Production Management
 
 ## Relevant experience
 

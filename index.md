@@ -1,4 +1,4 @@
-<img align="left" src="/assets/img/youdad.png">
+<img align="right" src="/assets/img/youdad.png">
 
 👋 [Contact](mailto:richiebandrew@gmail.com)  
 🔗 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank">LinkedIn</a>  

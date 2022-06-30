@@ -1,6 +1,6 @@
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
-<img align="left" width="200" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
+<img align="right" width="200" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
 👋 [Contact](mailto:richiebandrew@gmail.com)  
 🚲 [Audax](/richard.andrew/audax/audax.html)  

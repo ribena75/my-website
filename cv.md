@@ -9,7 +9,7 @@
 
 ☁️ Certified Salesforce Administrator  
 ⚡ Experienced Digital/CRM professional  
-👋 Strong communication skills    
+👋 Strong communication skills  
 🌱 Commitment to learning and development
 
 ## Skills

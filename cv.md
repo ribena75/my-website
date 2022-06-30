@@ -3,7 +3,7 @@
 📫 3 Hubbard Road, London SE27 9PJ  
 🤙 07939 331665  
 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)  
-<i class="fa fa-linkedin-square" style="font-size:24px"></i> [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
+<i class="fa fa-linkedin-square" style="font-size:24px;color:grey"></i> [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
 
 ## Profile
 

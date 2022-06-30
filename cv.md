@@ -1,9 +1,12 @@
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
 # Richard Andrew
 
 📫 3 Hubbard Road, London SE27 9PJ  
 🤙 07939 331665  
 📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
+🔗 [LinkedIn](https://www.linkedin.com/in/richardandrew75/)  
+<i class="fa fa-linkedin-square"></i> [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
 
 ## Profile
 

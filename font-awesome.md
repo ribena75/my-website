@@ -7,3 +7,13 @@
 <i class="fa-solid fa-robot" style="font-size:24px"></i> Robot  
 <i class="fa-brands fa-amazon"></i> Amazon  
 <i class="fa-regular fa-hand-spock"></i> Spock
+
+📫 3 Hubbard Road, London SE27 9PJ  
+🤙 07939 331665  
+📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)  
+<i class="fa fa-linkedin-square" style="font-size:24px;color:black"></i> [LinkedIn](https://www.linkedin.com/in/richardandrew75/)
+
+☁️ Certified Salesforce Administrator  
+⚡ Experienced Digital/CRM professional  
+👋 Strong communication skills  
+🌱 Commitment to learning and development

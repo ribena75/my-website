@@ -17,3 +17,5 @@
 ⚡ Experienced Digital/CRM professional  
 👋 Strong communication skills  
 🌱 Commitment to learning and development
+
+<button style="font-size:24px">Button <i class="fa fa-linkedin-square"></i></button>

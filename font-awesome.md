@@ -2,6 +2,6 @@
 
 # font-awesome test
 
-<i class="fa-thin fa-cup-togo" style="font-size:24px"></i> Link  
-<i class="fa-thin fa-elephant" style="font-size:24px"></i> Link  
-<i class="fa-thin fa-robot" style="font-size:24px"></i> Link
+<i class="fa-thin fa-cup-togo" style="font-size:24px"></i> Cup To Go  
+<i class="fa-thin fa-elephant" style="font-size:24px"></i> Elephant  
+<i class="fa-thin fa-robot" style="font-size:24px"></i> Robot

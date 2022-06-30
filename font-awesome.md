@@ -4,4 +4,6 @@
 
 <i class="fa-thin fa-cup-togo" style="font-size:24px"></i> Cup To Go  
 <i class="fa-thin fa-elephant" style="font-size:24px"></i> Elephant  
-<i class="fa-thin fa-robot" style="font-size:24px"></i> Robot
+<i class="fa-solid fa-robot" style="font-size:24px"></i> Robot  
+<i class="fa-brands fa-amazon"></i> Amazon  
+<i class="fa-regular fa-hand-spock"></i> Spock

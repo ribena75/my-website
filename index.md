@@ -1,6 +1,8 @@
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
 <img align="left" width="200" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
 👋 [Contact](mailto:richiebandrew@gmail.com)  
-🔗 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank">LinkedIn</a>  
 🚲 [Audax](/richard.andrew/audax/audax.html)  
-🤖 [pombot](/pombot/)
+🤖 [Pombot](/pombot/)  
+<i class="fa fa-linkedin-square" style="font-size:24px;color:black"></i> [LinkedIn](https://www.linkedin.com/in/richardandrew75/)

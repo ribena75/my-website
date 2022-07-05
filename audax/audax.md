@@ -6,6 +6,7 @@ A space to document my long(ish) distance cycling travails.
 
 | Date | Event | Distance |
 | --- | --- | --- |
+| 02/07/2022 | The Way to the Sea | 200km |
 | 19/06/2022 | (Syden)Ham Rye Sandwich - DIY by GPX | 300km |
 | 07/05/2022 | Fast Times in the High Weald | 200km |
 | 09/04/2022 | Shaftesbury CC - Essex Lanes & Coasts | 200km |

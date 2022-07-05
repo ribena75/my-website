@@ -4,5 +4,5 @@
 
 👋 [Contact](mailto:richiebandrew@gmail.com)  
 🚲 [Audax](/richard.andrew/audax/audax.html)  
-🤖 [Pombot](/pombot/)  
+<img src="https://audax.uk/favicon.ico"> [Audax](/richard.andrew/audax/audax.html)
 <i class="fa fa-linkedin-square" style="font-size:24px;color:black"></i> [LinkedIn](https://www.linkedin.com/in/richardandrew75/)

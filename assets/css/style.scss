@@ -2,16 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-@font-face {
-  font-family: "San Francisco";
-  font-weight: 400;
-  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
-}
-
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: black;
-        filter: hue-rotate(180deg) invert(90%);
-    }
-}

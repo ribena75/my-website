@@ -1,4 +1,4 @@
-# Richard ```not``` Andrew
+# Richard, not Andrew!
 
 <img align="right" width="200" alt="you dad by holden" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 

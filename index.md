@@ -1,7 +1,7 @@
 <img align="right" width="200" alt="you dad by holden" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
-Husband/stepdad hybrid
-Vague web presence
+Husband/stepdad hybrid  
+Vague web presence  
 Mostly for testing stuff
 
 `(* Richard, not Andrew!)`

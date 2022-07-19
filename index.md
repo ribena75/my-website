@@ -1,6 +1,6 @@
-🕳🚴‍
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/cCrxHFb8d2r3qwDJ8w" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-vague web presence  
+extremely vague web presence  
 ps. it's *Richard* - not Andrew!
 
 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="16px" height="16px"></a>  <a href="https://www.strava.com/athletes/43333745" target="_blank"><img alt="Strava" src="https://www.strava.com/favicon.ico" width="16px" height="16px"></a>  <a href="https://audax.uk/results?memId=26444" target="_blank"><img alt="AUK" src="https://audax.uk/favicon.ico" width="16px" height="16px"></a>

@@ -1,4 +1,4 @@
-the vague web presence of **richard a.**
+vague web presence
 
 <sub>ps. it's *Richard* - not Andrew!</sub>
 

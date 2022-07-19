@@ -1,4 +1,4 @@
-## ricgrd 
+# Richard A.
 
 extremely vague web presence  
 ps. it's *Richard* - not Andrew!

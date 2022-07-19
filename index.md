@@ -5,8 +5,12 @@ of husband/stepdad hybrid
 mostly for testing stuff  
 ps. it's *Richard* - not Andrew!
 
-<a href="https://www.linkedin.com/in/richardandrew75/"><img alt="LinkedIn" src="https://www.linkedin.com/favicon.ico" width=16px" height="16px"></a>  
+<a href="https://www.linkedin.com/in/richardandrew75/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width=16px" height="16px"></a>  
 
 <a href="https://www.strava.com/athletes/43333745"><img alt="Strava" src="https://www.strava.com/favicon.ico" width=16px" height="16px"></a>  
 
 <a href="https://audax.uk/results?memId=26444"><img alt="AUK" src="https://audax.uk/favicon.ico" width=16px" height="16px"></a>
+
+<a href="https://www.linkedin.com/in/richardandrew75/">
+<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" style="width:42px;height:42px;">
+</a> 

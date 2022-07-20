@@ -1,11 +1,11 @@
 <sub>the vague web presence of...</sub>  
-***Richard*** - not Andrew!
+**Richard** (not) Andrew!
 
 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="16px" height="16px"></a>  
 <a href="https://www.strava.com/athletes/43333745" target="_blank"><img alt="Strava" src="https://www.strava.com/favicon.ico" width="16px" height="16px"></a>  
 <a href="https://audax.uk/results?memId=26444" target="_blank"><img alt="AUK" src="https://audax.uk/favicon.ico" width="16px" height="16px"></a>
 
-![LinkedIn](https://www.linkedin.com/favicon.ico) [LinkedIn](https://www.linkedin.com/in/richardandrew75/)  
+![LinkedIn](https://www.linkedin.com/favicon.ico) <sub>[LinkedIn](https://www.linkedin.com/in/richardandrew75/)</sub>  
 
 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank"><img src="" alt="LinkedIn" width="16px" height="16px"></a>  
 <a href="https://www.strava.com/athletes/43333745" target="_blank"><img alt="Strava" src="https://www.strava.com/favicon.ico" width="16px" height="16px"></a>  

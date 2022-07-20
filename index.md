@@ -1,5 +1,5 @@
 <sub>the vague web presence of...</sub>  
-**Richard** `(not) Andrew`
+**Richard** `(not)` Andrew
 
 <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="16px" height="16px"> <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank">LinkedIn</a>  
 <img src="https://www.strava.com/favicon.ico" alt="Strava" width="16px" height="16px"> <a href="https://www.strava.com/athletes/43333745" target="_blank">Strava</a>  

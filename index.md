@@ -1,4 +1,4 @@
-<sub>the vague web presence of...</sub> 
+<sub>the vague web presence of...</sub>  
 ***Richard*** - not Andrew!
 
 <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="16px" height="16px"></a>  

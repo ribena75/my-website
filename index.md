@@ -7,4 +7,4 @@
 
 <img align="right" width="200" alt="you dad by holden" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
-<img src="assets/img/asterisk.ico" alt="asterisk" width="16px" height="16px"> <sub>not Andrew or Robert, Ian or Anthony... Richard is my first name; Andrew is my *last name*</sub>
+<img src="assets/img/asterisk.ico" alt="asterisk" width="16px" height="16px"> <sup>not Andrew or Robert, Ian or Anthony... Richard is my first name; Andrew is my *last name*</sup>

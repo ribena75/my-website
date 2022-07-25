@@ -1,3 +1,7 @@
+<head>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
 <sub>the vague web presence of...</sub>  
 <i class="fa-solid fa-asterisk fa-xs"></i>Richard Andrew
 

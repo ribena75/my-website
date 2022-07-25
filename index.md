@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 
 <sub>the vague web presence of...</sub>  
 <i class="fa-solid fa-asterisk fa-xs"></i>Richard Andrew

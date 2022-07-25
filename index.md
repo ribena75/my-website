@@ -1,5 +1,3 @@
-<script src="https://use.fontawesome.com/eb6d6bb626.js"></script>
-
 <sub>the vague web presence of...</sub>  
 <i class="fa-solid fa-asterisk fa-xs"></i>Richard Andrew
 

@@ -7,10 +7,10 @@
 
 <img align="right" width="200" alt="you dad by holden" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
-`* not Andrew or Robert, Ian or Anthony...`  
+`* not Andrew or Robert, Ian or Anthony`  
 `Richard is my first name; Andrew is my *last name*`
 
-<small>
+<sub>
 They call me Andrew  
 They call me Robert  
 They call me Ian  
@@ -19,4 +19,4 @@ That's not my name !
 That's not my name !  
 That's not my name !  
 That's not my name !
-</small>
+</sub>

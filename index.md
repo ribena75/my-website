@@ -7,8 +7,9 @@
 
 <img align="right" width="200" alt="you dad by holden" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
-`* not Andrew or Robert, Ian or Anthony`  
-`Richard is my first name; Andrew is my *last name*`
+.  
+.  
+.  
 
 <sub>
 They call me Andrew  

@@ -7,4 +7,5 @@ Richard* Andrew
 
 <img align="right" width="200" alt="you dad by holden" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
-** <small>not Andrew or Robert, Ian or Anthony... Richard is my first name; Andrew is my *last name*</small>
+** <small>not Andrew or Robert, Ian or Anthony...  
+Richard is my first name; Andrew is my *last name*</small>

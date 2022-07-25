@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
 
 <sub>the vague web presence of...</sub>  
 Richard<i class="fa-solid fa-asterisk"></i> Andrew
@@ -9,4 +9,4 @@ Richard<i class="fa-solid fa-asterisk"></i> Andrew
 
 <img align="right" width="200" alt="you dad by holden" src="https://ribena75.github.io/richard.andrew/assets/img/youdad2.png">
 
-<sub>(*not Andrew or Robert, Ian or Anthony... Richard is my first name; Andrew is my *last name*)</sub>
+<sub>(<i class="fa-solid fa-asterisk"></i> not Andrew or Robert, Ian or Anthony... Richard is my first name; Andrew is my *last name*)</sub>

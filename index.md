@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+<link rel="stylesheet" href="assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
 </head>
 
 <sub>the vague web presence of...</sub>  

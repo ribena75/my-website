@@ -1,4 +1,6 @@
+<head>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+</head>
 
 <sub>the vague web presence of...</sub>  
 <i class="fa-solid fa-asterisk fa-xs"></i>Richard Andrew

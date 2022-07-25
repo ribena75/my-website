@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.css">
 
 <sub>the vague web presence of...</sub>  
 Richard<i class="fa-solid fa-asterisk"></i> Andrew

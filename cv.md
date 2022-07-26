@@ -64,22 +64,20 @@ My main role was managing the Lambeth PCT website to provide accessible content 
 
 Work included coordinating the design and build of a new charity website and the build of a unique online database of the world’s minority groups, including recruiting and managing interns; managing the design and print production of flagship human rights publications, often with overseas partner organisations and other project stakeholders; photo research; commissioning designers, photographers and cartographers; liaising with printers, picture libraries and distributors.
 
-| Education |
-| --------- |
-| BA (Hons) Media Arts / 2.2 (1995 - 1998,  University of Hertfordshire) |
-| Art & Design GNVQ Level 3 / Pass (1992 - 1995,  Amersham & Wycombe College) |
-| GCSE English, Maths, French, Science) / C (1987 - 1992, Holmer Green Upper School) |
-
 ## Education
 
-* BA (Hons) Media Arts / 2.2 (1995 - 1998,  University of Hertfordshire)
-* Art & Design GNVQ Level 3 / Pass (1992 - 1995,  Amersham & Wycombe College)
-* GCSE English, Maths, French, Science) / C (1987 - 1992, Holmer Green Upper School)
+| Date | Setting | Qualification | Grade |
+| --------- | --------- | --------- | --------- |
+| 1995 - 1998 | University of Hertfordshire | BA (Hons) Media Arts | 2.2 |
+| 1992 - 1995 | Amersham & Wycombe College | Art & Design GNVQ Level 3 | Pass |
+| 1987 - 1992 | Holmer Green Upper School | GCSE English, Maths, French, Science | C |
 
 ## Certification
 
-* Salesforce Certified Administrator (Issued Nov 2021)
-* SharePoint Online Admin Essential Training (Issued Jul 2020)
-* SharePoint Online: Working in the Modern Experience (Issued Jul 2020)
-* SharePoint for Enterprise: Data Management (Issued Jul 2020)
-* Salesforce Administration Essentials for New Admins - ADM-201 (Issued Mar 2013)
+| Qualification | Date issued |
+| --------- | --------- |
+| Salesforce Certified Administrator | Nov 2021 |
+| SharePoint Online Admin Essential Training | Jul 2020 |
+| SharePoint Online: Working in the Modern Experience | Jul 2020 |
+| SharePoint for Enterprise: Data Management (Issued Jul 2020 |
+| Salesforce Administration Essentials for New Admins - ADM-201 | Mar 2013 |

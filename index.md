@@ -1,4 +1,4 @@
-<small>the vague web presence of...</small>  
+<small>the miniature web presence of...</small>  
 **Richard*** Andrew
 
 <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" width="16px" height="16px"> <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank">LinkedIn</a>  

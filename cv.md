@@ -6,7 +6,7 @@
 
 ## Profile
 
-☁️ (Certified Salesforce Administrator)[https://trailblazer.me/id/randrew8]  
+☁️ [Certified Salesforce Administrator](https://trailblazer.me/id/randrew8)  
 ⚡ Experienced Digital/CRM professional  
 🌱 Commitment to learning and development
 

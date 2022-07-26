@@ -2,11 +2,11 @@
 
 📫 3 Hubbard Road, London SE27 9PJ  
 🤙 07939 331665  
-📨 [richiebandrew@gmail.com](mailto:richiebandrew@gmail.com)
+📨 [richiebandrew(at)gmail.com](mailto:richiebandrew@gmail.com)
 
 ## Profile
 
-☁️ Certified Salesforce Administrator  
+☁️ (Certified Salesforce Administrator)[https://trailblazer.me/id/randrew8]  
 ⚡ Experienced Digital/CRM professional  
 🌱 Commitment to learning and development
 

@@ -80,4 +80,4 @@ Work included coordinating the design and build of a new charity website and the
 | Jul 2020 | SharePoint Online Admin Essential Training |
 | Jul 2020 | SharePoint Online: Working in the Modern Experience |
 | Jul 2020 | SharePoint for Enterprise: Data Management |
-| Mar 2013 | Salesforce Administration Essentials for New Admins - ADM-201 |
+| Mar 2013 | Salesforce Administration Essentials for New Admins |

@@ -66,18 +66,14 @@ Work included coordinating the design and build of a new charity website and the
 
 ## Education
 
-| Date | Setting | Qualification | Grade |
-| --------- | --------- | --------- | --------- |
-| 1995 - 1998 | University of Hertfordshire | BA (Hons) Media Arts | 2.2 |
-| 1992 - 1995 | Amersham & Wycombe College | Art & Design GNVQ Level 3 | Pass |
-| 1987 - 1992 | Holmer Green Upper School | GCSE English, Maths, French, Science | C |
+- BA (Hons) Media Arts (2.2) - University of Hertfordshire (1995-1998)
+- Art & Design GNVQ Level 3 (Pass) - Amersham & Wycombe College (1992-1995)
+- GCSE English, Maths, French, Science (C) - Holmer Green Upper School (1987-1992)
 
 ## Certification
 
-| Date issued | Qualification |
-| --------- | --------- |
-| Nov 2021 | Salesforce Certified Administrator ADM201 |
-| Jul 2020 | SharePoint Online Admin Essential Training |
-| Jul 2020 | SharePoint Online: Working in the Modern Experience |
-| Jul 2020 | SharePoint for Enterprise: Data Management |
-| Mar 2013 | Salesforce Administration Essentials for New Admins ADX201 |
+- Salesforce Certified Administrator ADM201 - Nov 2021
+- SharePoint Online Admin Essential Training - Jul 2020
+- SharePoint Online: Working in the Modern Experience - Jul 2020
+- SharePoint for Enterprise: Data Management - Jul 2020
+- Salesforce Administration Essentials for New Admins ADX201 - Mar 2013

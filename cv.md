@@ -76,8 +76,8 @@ Work included coordinating the design and build of a new charity website and the
 
 | Date issued | Qualification |
 | --------- | --------- |
-| Nov 2021 | Salesforce Certified Administrator |
+| Nov 2021 | Salesforce Certified Administrator ADM201 |
 | Jul 2020 | SharePoint Online Admin Essential Training |
 | Jul 2020 | SharePoint Online: Working in the Modern Experience |
 | Jul 2020 | SharePoint for Enterprise: Data Management |
-| Mar 2013 | Salesforce Administration Essentials for New Admins |
+| Mar 2013 | Salesforce Administration Essentials for New Admins ADX201 |

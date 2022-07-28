@@ -50,7 +50,7 @@ One of the main responsibilities of this role was the administration and develop
 * User and account maintenance
 * Assisting and training users
 
-Other responsibilities included website development and content management, domain management, in-house design and print production, data protection and organisational lead on GDPR, IT support and training of staff. 
+Other responsibilities included website development and content management, domain management, in-house design and print production, data protection and organisational lead on GDPR and internal IT support. 
 
 ### NHS Lambeth / Website Manager
 

@@ -12,7 +12,7 @@
 
 ## Skills
 
-Salesforce: workflow and process builder, report and dashboard creation, object and field management, page layout management, email integration, validation rules and data quality, user/profile management, dataloader/data import, sandbox and changeset deployment
+<img align="left" width="100" height="100" src="assets/img/Adminstrator.png" alt="Calendly" width="16px" height="16px">Salesforce: workflow and process builder, report and dashboard creation, object and field management, page layout management, email integration, validation rules and data quality, user/profile management, dataloader/data import, sandbox and changeset deployment
 
 Other: Microsoft 365/SharePoint Administration, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management
 

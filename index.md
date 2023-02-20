@@ -1,5 +1,3 @@
-<img src="assets/img/me.png" alt="me">
-<hr>
 <small>the miniature web presence of...</small>  
 Richard Andrew
 

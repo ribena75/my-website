@@ -72,6 +72,7 @@ Work included coordinating the design and build of a new charity website and the
 
 ## Certification
 
+- Bacs Learning - Paperless Direct Debit (Jun 2023)
 - Salesforce Certified Administrator (Nov 2021)
 - SharePoint Online Admin Essential Training (Jul 2020)
 - SharePoint Online: Working in the Modern Experience (Jul 2020)

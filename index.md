@@ -1,5 +1,5 @@
 <small>the miniature web presence of...</small>  
-Richard not Andrew
+Richard Andrew
 
 <img src="assets/img/calendly.png" alt="Calendly" width="16px" height="16px"> <a href="https://calendly.com/richardandrew/" target="_blank">Calendly</a>  
 <img src="assets/img/linkedin.png" alt="LinkedIn" width="16px" height="16px"> <a href="https://www.linkedin.com/in/richardandrew75/" target="_blank">LinkedIn</a>  

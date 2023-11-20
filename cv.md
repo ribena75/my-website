@@ -15,7 +15,7 @@
 
 ## Relevant experience
 
-### Peace Direct / Database Officer
+### Peace Direct / Senior Data and Systems Officer
 
 **Nov 2019 - present**
 

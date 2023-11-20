@@ -11,7 +11,7 @@
 
 ## Skills
 
-<img src="assets/img/Administrator.png" alt="Administrator" img align="right" width="100" height="100">**Certified Salesforce Administrator** ☁️ Microsoft 365/SharePoint Administration, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management, Gift Aid management
+<img src="assets/img/Administrator.png" alt="Administrator" img align="right" width="100" height="100"><ins>Certified Salesforce Administrator</ins> ☁️ Microsoft 365/SharePoint Administration, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management, Gift Aid management
 
 ## Relevant experience
 

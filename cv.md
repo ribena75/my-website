@@ -6,12 +6,12 @@
 
 ## Profile
 
-☁️ [Certified Salesforce Administrator](https://trailblazer.me/id/randrew8)  
+☁️ Certified Salesforce Administrator  
 ⚡ Experienced Digital/CRM Professional
 
 ## Skills
 
-<img src="assets/img/Administrator.png" alt="Administrator" img align="right" width="100" height="100"><ins>Certified Salesforce Administrator</ins> ☁️ Microsoft 365/SharePoint Administration, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management, Gift Aid management
+<img src="assets/img/Administrator.png" alt="Administrator" img align="right" width="100" height="100">Salesforce Admin, Microsoft 365/SharePoint Admin, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management, Gift Aid management
 
 ## Relevant experience
 

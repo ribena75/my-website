@@ -7,8 +7,7 @@
 ## Profile
 
 ☁️ [Certified Salesforce Administrator](https://trailblazer.me/id/randrew8)  
-⚡ Experienced Digital/CRM professional  
-🌱 Commitment to learning and development
+⚡ Experienced Digital/CRM Professional
 
 ## Skills
 

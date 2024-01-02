@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Richard Andrew
 
 📍 London, UK  

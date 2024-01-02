@@ -1,4 +1,8 @@
-the miniature web presence of  
+the  
+miniature  
+web  
+presence  
+of  
 **Richard Andrew**
 
 [linkedin](https://www.linkedin.com/in/richardandrew75/)  

@@ -10,7 +10,7 @@ html {
     font: 100%/1.0 sans-serif;
     word-wrap: break-word;
     margin: 0 auto;
-    padding: 1.5em;
+    padding: 1.0em;
  }
 
 @media (min-width: 768px) {

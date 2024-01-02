@@ -1,17 +1,16 @@
 # Richard Andrew
 
-📫 3 Hubbard Road, London SE27 9PJ  
-🤙 07939 331665  
-📨 [ribena75@pm.me](mailto:ribena75@pm.me)
+📍 London, UK  
+🤙 [ribena75@pm.me](mailto:ribena75@pm.me)
 
 ## Profile
 
-☁️ Certified Salesforce Administrator  
+<img src="assets/img/Administrator.png" alt="Administrator" img align="right" width="100" height="100">☁️ Certified Salesforce Administrator  
 ⚡ Experienced Digital/CRM Professional
 
 ## Skills
 
-<img src="assets/img/Administrator.png" alt="Administrator" img align="right" width="100" height="100">Salesforce Admin, Microsoft 365/SharePoint Admin, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management, Gift Aid management
+Salesforce Admin, Microsoft 365/SharePoint Admin, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management, Gift Aid management
 
 ## Relevant experience
 

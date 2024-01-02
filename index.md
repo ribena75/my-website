@@ -3,7 +3,7 @@ miniature
 web  
 presence  
 of  
-**Richard Andrew**
+[Richard Andrew]()
 
 [linkedin](https://www.linkedin.com/in/richardandrew75/)  
 [strava](https://www.strava.com/athletes/43333745)  

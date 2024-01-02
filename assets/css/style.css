@@ -7,10 +7,10 @@
 html {
     overflow-y: scroll;
     height: 100%;
-    font: 100%/1.0 sans-serif;
+    font: 100%/1.5 sans-serif;
     word-wrap: break-word;
     margin: 0 auto;
-    padding: 1.0em;
+    padding: 1.5em;
  }
 
 @media (min-width: 768px) {

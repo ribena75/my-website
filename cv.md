@@ -6,7 +6,8 @@
 ## Profile
 
 ☁️ Certified Salesforce Administrator  
-⚡ Experienced Digital/CRM Professional
+⚡ Digital/CRM Professional  
+🌱 Nonprofit background
 
 ## Skills
 

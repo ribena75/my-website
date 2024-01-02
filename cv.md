@@ -5,7 +5,7 @@
 
 ## Profile
 
-<img src="assets/img/Administrator.png" alt="Administrator" img align="right" width="100" height="100">☁️ Certified Salesforce Administrator  
+☁️ Certified Salesforce Administrator  
 ⚡ Experienced Digital/CRM Professional
 
 ## Skills

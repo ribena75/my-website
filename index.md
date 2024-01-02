@@ -1,3 +1,5 @@
+<base target="_blank">
+
 the  
 miniature  
 web  

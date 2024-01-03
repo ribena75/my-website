@@ -1,11 +1,6 @@
 <base target="_blank">
 
-the  
-miniature  
-web  
-presence  
-of me,  
-**Richard Andrew**
+**RBA**  
 
 [linkedin](https://www.linkedin.com/in/richardandrew75/)  
 [strava](https://www.strava.com/athletes/43333745)  

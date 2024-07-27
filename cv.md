@@ -2,6 +2,8 @@
 
 # Richard Andrew
 
+===Now in Obsidian===
+
 📍 London, UK  
 🤙 [ribena75@pm.me](mailto:ribena75@pm.me)
 
@@ -21,7 +23,7 @@ Salesforce Admin, Microsoft 365/SharePoint Admin, MSOffice inc Excel, G Suite Ad
 
 >Nov 2019 - present
 
-I ensure all transactional and donor data is effectively captured, processed, analysed and reported in Salesforce (NPSP), while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
+I ensure all transactional and donor fundraising data is effectively captured, processed, analysed and reported in Salesforce (NPSP), while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
 
 Key responsibilities include:
 

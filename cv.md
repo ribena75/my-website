@@ -2,7 +2,7 @@
 
 # Richard Andrew
 
-===Now in Obsidian===
+==Now in Obsidian==
 
 📍 London, UK  
 🤙 [ribena75@pm.me](mailto:ribena75@pm.me)

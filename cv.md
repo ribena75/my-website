@@ -25,7 +25,7 @@ I ensure all transactional and donor data is effectively captured, processed, an
 
 Key responsibilities include:
 
-* Capturing, processing and recording transactional and donor data from all channels
+* Capturing, processing and recording transactional and donor fundraising data from all channels
 * Working with accounts team to ensure timely reconciliation of fundraising data on a monthly basis
 * Design and generate fundraising reports and dashboards to provide insight into transactional, donor and supporter data
 * Generating segments for fundraising and marketing activity

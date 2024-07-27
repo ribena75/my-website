@@ -27,7 +27,7 @@ Key responsibilities include:
 
 * Capturing, processing and recording transactional and donor data from all channels
 * Working with accounts team to ensure timely reconciliation of fundraising data on a monthly basis
-* Design and generate custom or scheduled fundraising reports to provide insight into transactional, donor and supporter data
+* Design and generate fundraising reports and dashboards to provide insight into transactional, donor and supporter data
 * Generating segments for fundraising and marketing activity
 * Managing database connectivity to third party systems
 * Developing processes and integrations to improve efficiency and working with third party suppliers to achieve this

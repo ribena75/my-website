@@ -7,9 +7,9 @@
 </style>
 <div id="mc_embed_signup">
     <form action="https://fnrttc.us11.list-manage.com/subscribe/post?u=41f3d41b5c6c84c2a857192bc&amp;id=bc0757e7ee&amp;f_id=00d733e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
+        <div id="mc_embed_signup_scroll"><h2>Subscribe to the Fridays newsletter</h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div><div class="mc-field-group input-group"><strong>Email Format </strong><ul><li><input type="radio" name="EMAILTYPE" id="mce-EMAILTYPE0" value="html"><label for="mce-EMAILTYPE0">html</label></li><li><input type="radio" name="EMAILTYPE" id="mce-EMAILTYPE1" value="text"><label for="mce-EMAILTYPE1">text</label></li></ul></div>
         <div id="mce-responses" class="clear foot">
             <div class="response" id="mce-error-response" style="display: none;"></div>
             <div class="response" id="mce-success-response" style="display: none;"></div>

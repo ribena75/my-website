@@ -1,81 +1,65 @@
 <base target="_blank">
 
-# Richard Andrew
+### Profile
 
-==Now in Obsidian==
+☁️ [Certified Salesforce Administrator](https://www.salesforce.com/trailblazer/ribena75)
+🌱 Experienced and dedicated charity professional
+🤙 [ribena75@pm.me](mailto:ribena75@pm.me) ⋅ 07939 331665
+🔗 [linkedin.com/in/richardandrew75](https://www.linkedin.com/in/richardandrew75)
+📍 London, UK
 
-📍 London, UK  
-🤙 [ribena75@pm.me](mailto:ribena75@pm.me)
+### Relevant experience
 
-## Profile
+#### *Senior Data and Systems Officer*
+**Nov 2019 - present ⋅ [peacedirect.org](https://www.peacedirect.org)**
 
-☁️ Certified Salesforce Administrator  
-⚡ Digital/CRM professional  
-🌱 Nonprofit background
-
-## Skills
-
-Salesforce Admin, Microsoft 365/SharePoint Admin, MSOffice inc Excel, G Suite Admin, Umbraco, Drupal, WordPress, HTML, Mailchimp, GitHub, Adobe Creative Suite, Print Production Management, Gift Aid management
-
-## Relevant experience
-
-### [Peace Direct](https://www.peacedirect.org/) / Senior Data and Systems Officer
-
->Nov 2019 - present
-
-I ensure all transactional and donor fundraising data is effectively captured, processed, analysed and reported in Salesforce (NPSP), while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
+I ensure all fundraising data is effectively captured, processed, analysed and reported in Salesforce (NPSP), while promoting wider Salesforce adoption and the development of other data systems and processes within the organisation.
 
 Key responsibilities include:
-
-* Capturing, processing and recording transactional and donor fundraising data from all channels
-* Working with accounts team to ensure timely reconciliation of fundraising data on a monthly basis
-* Design and generate fundraising reports and dashboards to provide insight into transactional, donor and supporter data
-* Generating segments for fundraising and marketing activity
-* Managing database connectivity to third party systems
-* Developing processes and integrations to improve efficiency and working with third party suppliers to achieve this
+* Capturing and processing transactional donor fundraising data from all channels, including Stripe, CAF and Direct Debit
+* Working with the finance team to ensure timely reconciliation of fundraising data on a monthly basis
+* Supporting the delivery of quarterly and ad hoc fundraising appeals, both printed and digital
+* Creating fundraising reports and dashboards to provide insight into donor activity and appeal performance
+* Creating donor communication segments for fundraising and marketing activity, utilising both Salesforce and Mailchimp
+* Developing and maintaining flows and processes relating to donor stewardship and record management
+* Developing processes and integrations to improve efficiency and working with third party suppliers to achieve this (including Findock and Fundraise Up)
 * Project management of new implementation, activation of new functionality and upgrades of Salesforce across the organisation
-* Training staff in the use of the CRM
 * Maintaining and updating Gift Aid records and maximising Gift Aid opt-in
-* Lead on data protection and information security
+* Providing systems advice and technical support to the wider team including the programmes and advocacy teams
+* Organisational lead on data protection and information security
 
-### [Kidscape](https://www.kidscape.org.uk/) / Website, Print and Database Manager
+⤵
 
->Aug 2012 - Oct 2019
+<div style="page-break-after: always;"></div>
 
-One of the main responsibilities of this role was the administration and development of the charity’s Salesforce instance, including:
+#### *Website, Print and Database Manager*
+**Aug 2012 - Oct 2019 ⋅ [kidscape.org.uk](https://www.kidscape.org.uk)**
 
-* Building and maintaining workflow processes relating to user adoption including Web-to-Lead and Web-to-Case, fundraising campaigns, training workshops, supporter donations and privacy controls
+Key responsibility included the administration and development of the charity’s Salesforce instance, including:
+* Building and maintaining workflow processes relating to user adoption including a Web-to-Lead and Web-to-Case booking system for training workshops, supporter donations and privacy controls
 * Creating and maintaining reports and dashboards
 * Managing data integrations and lead generation
 * Testing and implementing new development requests
-* User and account maintenance
 * Assisting and training users
 
-Other responsibilities included website development and content management, domain management, in-house design and print production, data protection and organisational lead on GDPR and internal IT support. 
+#### *Website Manager*
+**Oct 2008 - Oct 2010 ⋅ NHS Lambeth**
 
-### NHS Lambeth / Website Manager
+- Managed the PCT website to provide accessible content to a diverse audience
+- Helped staff develop their intranet management skills by providing technical and creative support
+- Produced print materials including the local NHS health guide which was distributed to every household in Lambeth
 
->Oct 2008 - Oct 2010
+#### *Production Coordinator*
+**Sep 2002 - Oct 2008 ⋅ [minorityrights.org](https://www.minorityrights.org)**
 
-My main role was managing the Lambeth PCT website to provide accessible content to a diverse audience, and staff intranet management (used by over 3,000 NHS staff across the borough), including helping staff to develop their intranet management skills by providing technical and creative support. I also produced print materials including the local NHS health guide which was distributed to every household in Lambeth. 
+- Coordinated the design and build of a new charity website and the build of a unique online database of the world’s minority groups
+- Managed the design and print production of flagship human rights publications, often with overseas partner organisations and other project stakeholders
+- Photo research, commissioning of designers, photographers and cartographers
 
-### [Minority Rights Group International](https://www.minorityrights.org/) / Production Coordinator
+### Additional information
 
->Sep 2002 - Oct 2008
-
-Work included coordinating the design and build of a new charity website and the build of a unique online database of the world’s minority groups, including recruiting and managing interns; managing the design and print production of flagship human rights publications, often with overseas partner organisations and other project stakeholders; photo research; commissioning designers, photographers and cartographers; liaising with printers, picture libraries and distributors.
-
-## Education
-
-- BA (Hons) Media Arts (2.2) - University of Hertfordshire (1995-1998)
-- Art & Design GNVQ Level 3 (Pass) - Amersham & Wycombe College (1992-1995)
-- GCSE English, Maths, French, Science (C) - Holmer Green Upper School (1987-1992)
-
-## Certification
-
-- Bacs Learning - Paperless Direct Debit (Jun 2023)
-- Salesforce Certified Administrator (Nov 2021)
-- SharePoint Online Admin Essential Training (Jul 2020)
-- SharePoint Online: Working in the Modern Experience (Jul 2020)
-- SharePoint for Enterprise: Data Management (Jul 2020)
-- Salesforce Administration Essentials for New Admins ADM201 (Mar 2013)
+- Presentation skills training (Oct 2024)
+- Bacs Learning - Paperless Direct Debit (Jun 2023) `certification`
+- Salesforce Certified Administrator (Nov 2021) `certification`
+- Salesforce Administration Essentials for New Admins ADM201 (Mar 2013) `certification`
+- BA (Hons) Media Arts (2.2) - University of Hertfordshire (1995-1998) `qualification`
